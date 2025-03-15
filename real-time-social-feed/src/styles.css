@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://aumejtoqen.cloudimg.io/v7/tagembed.com/blog/wp-content/uploads/2020/10/Blog-Image13.png');
+    /* Make sure the file is in assets folder */
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
